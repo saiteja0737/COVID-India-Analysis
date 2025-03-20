@@ -1,5 +1,5 @@
-COVID-19 India Analysis
-An Exploratory Data Analysis (EDA) and Visualization Project on COVID-19 Trends in India
+# COVID-19 India Analysis
+## An Exploratory Data Analysis (EDA) and Visualization Project on COVID-19 Trends in India
 
 Project Overview:
 This project provides an Exploratory Data Analysis (EDA) of COVID-19 trends in India, covering key aspects such as:
