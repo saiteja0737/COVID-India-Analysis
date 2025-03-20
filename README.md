@@ -18,6 +18,9 @@ The dataset used for this analysis contains state-wise COVID-19 case records, va
 ## Key Insights & Findings:
 
 a. Vaccination Impact: A significant increase in vaccinations is correlated with a decrease in active COVID-19 cases.
+
 b. State-wise Trends: States with higher population density showed more active cases, but also a higher recovery rate.
+
 c. Gender-based Vaccination Disparity: Slightly higher vaccination rates among males compared to females.
+
 d. Recovery & Mortality Rates: Recovery rates are consistently high across most states, with some variations in mortality rates.
