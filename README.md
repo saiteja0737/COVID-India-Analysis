@@ -12,9 +12,11 @@ This project provides an Exploratory Data Analysis (EDA) of COVID-19 trends in I
 The project utilizes Python, Pandas, Matplotlib, Seaborn, and Plotly to perform data analysis and visualization.
 
 Dataset:
+
 The dataset used for this analysis contains state-wise COVID-19 case records, vaccination data, and demographic insights.
 
 Key Insights & Findings:
+
 a. Vaccination Impact: A significant increase in vaccinations is correlated with a decrease in active COVID-19 cases.
 b. State-wise Trends: States with higher population density showed more active cases, but also a higher recovery rate.
 c. Gender-based Vaccination Disparity: Slightly higher vaccination rates among males compared to females.
